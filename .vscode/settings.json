@@ -1,4 +1,7 @@
 {
     "liveServer.settings.port": 5501,
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
